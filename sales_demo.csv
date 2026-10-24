@@ -1,0 +1,12 @@
+
+OrderID,OrderDate,Product,Category,Quantity,UnitPrice,CustomerID
+101,2026-01-05,Headphones,Electronics,2,1500,C001
+102,2026-01-08,Keyboard,Electronics,1,1200,C002
+103,2026-01-12,TShirt,Fashion,3,500,C003
+104,2026-01-15,Headphones,Electronics,1,1500,C004
+105,2026-02-02,Shoes,Fashion,2,2500,C001
+106,2026-02-10,Keyboard,Electronics,2,1200,C005
+107,2026-02-15,Backpack,Accessories,1,1800,C002
+108,2026-02-20,TShirt,Fashion,4,500,C006
+109,2026-03-03,Shoes,Fashion,1,2500,C003
+110,2026-03-10,Backpack,Accessories,2,1800,C004
